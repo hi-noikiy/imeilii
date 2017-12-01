@@ -1,0 +1,458 @@
+2017-09-30 07:26:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7746e3957387]]></ToUserName>
+<FromUserName><![CDATA[odw3GuFnsJk6WikMvqY-_svYpX5w]]></FromUserName>
+<CreateTime>1506727563</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-09-30 07:26:03 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7746e3957387',
+    'fromusername' => 'odw3GuFnsJk6WikMvqY-_svYpX5w',
+    'createtime' => '1506727563',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'odw3GuFnsJk6WikMvqY-_svYpX5w',
+    'to' => 'gh_7746e3957387',
+    'time' => '1506727563',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2017-09-30 07:26:03 response :
+------------
+
+2017-09-30 07:26:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7746e3957387]]></ToUserName>
+<FromUserName><![CDATA[odw3GuFnsJk6WikMvqY-_svYpX5w]]></FromUserName>
+<CreateTime>1506727569</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[家教]]></Content>
+<MsgId>6471345633286258726</MsgId>
+</xml>
+
+2017-09-30 07:26:09 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7746e3957387',
+    'fromusername' => 'odw3GuFnsJk6WikMvqY-_svYpX5w',
+    'createtime' => '1506727569',
+    'msgtype' => 'text',
+    'content' => '家教',
+    'msgid' => '6471345633286258726',
+    'from' => 'odw3GuFnsJk6WikMvqY-_svYpX5w',
+    'to' => 'gh_7746e3957387',
+    'time' => '1506727569',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cw_weijiajiao',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '13',
+    'rid' => '9',
+    'uniacid' => '1',
+    'module' => 'cw_weijiajiao',
+    'content' => '家教',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-09-30 07:26:09 response :
+------------
+Array:
+FromUserName : gh_7746e3957387 ;
+ToUserName : odw3GuFnsJk6WikMvqY-_svYpX5w ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-09-30 07:50:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7746e3957387]]></ToUserName>
+<FromUserName><![CDATA[odw3GuA8uj_UYke5VTS4eL8EfhJI]]></FromUserName>
+<CreateTime>1506728994</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-09-30 07:50:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7746e3957387',
+    'fromusername' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'createtime' => '1506728994',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'to' => 'gh_7746e3957387',
+    'time' => '1506728994',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2017-09-30 07:50:35 response :
+------------
+
+2017-09-30 07:50:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7746e3957387]]></ToUserName>
+<FromUserName><![CDATA[odw3GuA8uj_UYke5VTS4eL8EfhJI]]></FromUserName>
+<CreateTime>1506728994</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-09-30 07:50:35 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7746e3957387',
+    'fromusername' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'createtime' => '1506728994',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'to' => 'gh_7746e3957387',
+    'time' => '1506728994',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2017-09-30 07:50:35 response :
+------------
+
+2017-09-30 07:50:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7746e3957387]]></ToUserName>
+<FromUserName><![CDATA[odw3GuA8uj_UYke5VTS4eL8EfhJI]]></FromUserName>
+<CreateTime>1506728994</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-09-30 07:50:36 params :
+------------
+String:
+array (
+  'rule' => -2,
+  'module' => '',
+  'message' => 
+  array (
+    'tousername' => 'gh_7746e3957387',
+    'fromusername' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'createtime' => '1506728994',
+    'msgtype' => 'event',
+    'event' => 'subscribe',
+    'eventkey' => '',
+    'from' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'to' => 'gh_7746e3957387',
+    'time' => '1506728994',
+    'type' => 'text',
+    'redirection' => true,
+    'source' => 'subscribe',
+  ),
+)
+
+2017-09-30 07:50:36 response :
+------------
+
+2017-09-30 07:50:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7746e3957387]]></ToUserName>
+<FromUserName><![CDATA[odw3GuA8uj_UYke5VTS4eL8EfhJI]]></FromUserName>
+<CreateTime>1506729005</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[家教]]></Content>
+<MsgId>6471351800859295962</MsgId>
+</xml>
+
+2017-09-30 07:50:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7746e3957387]]></ToUserName>
+<FromUserName><![CDATA[odw3GuA8uj_UYke5VTS4eL8EfhJI]]></FromUserName>
+<CreateTime>1506729005</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[家教]]></Content>
+<MsgId>6471351800859295962</MsgId>
+</xml>
+
+2017-09-30 07:50:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7746e3957387]]></ToUserName>
+<FromUserName><![CDATA[odw3GuA8uj_UYke5VTS4eL8EfhJI]]></FromUserName>
+<CreateTime>1506729005</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[家教]]></Content>
+<MsgId>6471351800859295962</MsgId>
+</xml>
+
+2017-09-30 07:50:36 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7746e3957387',
+    'fromusername' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'createtime' => '1506729005',
+    'msgtype' => 'text',
+    'content' => '家教',
+    'msgid' => '6471351800859295962',
+    'from' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'to' => 'gh_7746e3957387',
+    'time' => '1506729005',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cw_weijiajiao',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '13',
+    'rid' => '9',
+    'uniacid' => '1',
+    'module' => 'cw_weijiajiao',
+    'content' => '家教',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-09-30 07:50:36 response :
+------------
+Array:
+FromUserName : gh_7746e3957387 ;
+ToUserName : odw3GuA8uj_UYke5VTS4eL8EfhJI ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-09-30 07:50:36 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7746e3957387',
+    'fromusername' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'createtime' => '1506729005',
+    'msgtype' => 'text',
+    'content' => '家教',
+    'msgid' => '6471351800859295962',
+    'from' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'to' => 'gh_7746e3957387',
+    'time' => '1506729005',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cw_weijiajiao',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '13',
+    'rid' => '9',
+    'uniacid' => '1',
+    'module' => 'cw_weijiajiao',
+    'content' => '家教',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-09-30 07:50:36 response :
+------------
+Array:
+FromUserName : gh_7746e3957387 ;
+ToUserName : odw3GuA8uj_UYke5VTS4eL8EfhJI ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-09-30 07:50:36 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7746e3957387',
+    'fromusername' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'createtime' => '1506729005',
+    'msgtype' => 'text',
+    'content' => '家教',
+    'msgid' => '6471351800859295962',
+    'from' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'to' => 'gh_7746e3957387',
+    'time' => '1506729005',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cw_weijiajiao',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '13',
+    'rid' => '9',
+    'uniacid' => '1',
+    'module' => 'cw_weijiajiao',
+    'content' => '家教',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-09-30 07:50:36 response :
+------------
+Array:
+FromUserName : gh_7746e3957387 ;
+ToUserName : odw3GuA8uj_UYke5VTS4eL8EfhJI ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
+2017-09-30 07:50:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_7746e3957387]]></ToUserName>
+<FromUserName><![CDATA[odw3GuA8uj_UYke5VTS4eL8EfhJI]]></FromUserName>
+<CreateTime>1506729055</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[家教]]></Content>
+<MsgId>6471352015607660771</MsgId>
+</xml>
+
+2017-09-30 07:50:55 params :
+------------
+String:
+array (
+  'message' => 
+  array (
+    'tousername' => 'gh_7746e3957387',
+    'fromusername' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'createtime' => '1506729055',
+    'msgtype' => 'text',
+    'content' => '家教',
+    'msgid' => '6471352015607660771',
+    'from' => 'odw3GuA8uj_UYke5VTS4eL8EfhJI',
+    'to' => 'gh_7746e3957387',
+    'time' => '1506729055',
+    'type' => 'text',
+    'event' => NULL,
+    'redirection' => false,
+    'source' => NULL,
+  ),
+  'module' => 'cw_weijiajiao',
+  'rule' => '9',
+  'priority' => '0',
+  'keyword' => 
+  array (
+    'id' => '13',
+    'rid' => '9',
+    'uniacid' => '1',
+    'module' => 'cw_weijiajiao',
+    'content' => '家教',
+    'type' => '1',
+    'displayorder' => '0',
+    'status' => '1',
+    'reply_type' => 
+    array (
+    ),
+  ),
+  'reply_type' => 
+  array (
+  ),
+)
+
+2017-09-30 07:50:55 response :
+------------
+Array:
+FromUserName : gh_7746e3957387 ;
+ToUserName : odw3GuA8uj_UYke5VTS4eL8EfhJI ;
+MsgType : news ;
+ArticleCount : 1 ;
+Articles : Array ;
+
